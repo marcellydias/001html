@@ -8,7 +8,7 @@
     <title>Paragráfos</title>
 </head>
 <body>
-    <h1>Paragrafos e quebras dr linha</h1>
+    <h1>Paragrafos e quebras de linha</h1>
     <hr>
     <p>
         Você pode escrever um parágrafo de qualquer jeito, basta colocar tudo no meio do par de tags &lt;p&gt; e &lt;/p&gt;
